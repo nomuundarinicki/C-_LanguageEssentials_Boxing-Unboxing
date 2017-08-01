@@ -1,0 +1,8 @@
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/bin/Debug/netcoreapp1.1/boxing_unboxing.deps.json
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/bin/Debug/netcoreapp1.1/boxing_unboxing.runtimeconfig.json
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/bin/Debug/netcoreapp1.1/boxing_unboxing.runtimeconfig.dev.json
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/bin/Debug/netcoreapp1.1/boxing_unboxing.dll
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/bin/Debug/netcoreapp1.1/boxing_unboxing.pdb
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/obj/Debug/netcoreapp1.1/boxing_unboxing.AssemblyInfo.cs
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/obj/Debug/netcoreapp1.1/boxing_unboxing.dll
+/Users/nickchimedbavuu/Desktop/C#/boxing_unboxing/obj/Debug/netcoreapp1.1/boxing_unboxing.pdb
